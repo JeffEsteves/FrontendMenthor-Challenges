@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Front-End Menthor is a great way to reinforce our knowledge and keep practicing. This project helped with to remind few things about CSS and HTML beginner level.
+Front-End Menthor is a great way to reinforce our knowledge and keep practicing. This project helped me to remind few things about CSS and HTML beginner level.
 
 To see how you can add code snippets, see below:
 
