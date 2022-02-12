@@ -26,5 +26,4 @@ For media queries and CSS in general
 - Frontend Mentor - [@JeffEsteves](https://www.frontendmentor.io/profile/JeffEsteves)
 - Linkedin - [Jefferson Esteves](https://www.linkedin.com/in/jefferson-esteves-518081169/)
 
-
-https://github.com/JeffEsteves/FrontendMenthor-Challenges/blob/main/Beginner/QR%20code%20component%20challenge/design/desktop-preview.jpg?raw=true
+![desktop-design](https://user-images.githubusercontent.com/70189833/153724907-9e05f98e-234c-44a2-8276-239ec23aeaad.jpg)
